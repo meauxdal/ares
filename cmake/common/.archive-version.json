@@ -1,6 +1,6 @@
 {
-  "describe": "$Format:%(describe:tags,exclude=nightly)$",
-  "hash": "$Format:%h$",
-  "ref-name": "$Format:%D$",
-  "commit-date": "$Format:%cs$"
+  "describe": "v147-67-g08a7253e99",
+  "hash": "08a7253e99",
+  "ref-name": "HEAD -> master, tag: nightly",
+  "commit-date": "2026-02-13"
 }
